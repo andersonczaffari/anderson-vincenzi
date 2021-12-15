@@ -4,4 +4,8 @@ description: Meu primeiro chart
 type: application
 version: 0.1.0
 appVersion: "1.16.0"
-icon: https://quiksite.com/wp-content/uploads/2016/09/Nginx-Logo-02.png
+icon: file://Nginx-Logo-02.png
+  -name: dependencia
+    version: "0.1.0"
+    repository: file://../common/dependencia
+    condition: dependencia.enabled
