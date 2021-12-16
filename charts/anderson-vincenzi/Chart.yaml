@@ -5,7 +5,8 @@ type: application
 version: 0.1.0
 appVersion: "1.16.0"
 icon: file://Nginx-Logo-02.png
-    name: dependencia
-    version: "0.1.0"
-    repository: file://../common/dependencia
-    condition: dependencia.disabled
+#dependencies:
+#- name: dependencia
+#  version: "0.1.0"
+#  repository: file://../common/dependencia
+#  condition: dependencia.disabled
