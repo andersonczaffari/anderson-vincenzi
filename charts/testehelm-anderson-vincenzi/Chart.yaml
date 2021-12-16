@@ -1,7 +1,7 @@
 apiVersion: v2
 name: testehelm-anderson-vincenzi
 description: A Helm chart for Kubernetes
-icon:https://images.esellerpro.com/2189/I/602/974/26261-Icon-Airflite-Moto-Motorbike-Helmet-And-Visor-1400-0.jpg
+icon: https://images.esellerpro.com/2189/I/602/974/26261-Icon-Airflite-Moto-Motorbike-Helmet-And-Visor-1400-0.jpg
 # A chart can be either an 'application' or a 'library' chart.
 #
 # Application charts are a collection of templates that can be packaged into versioned archives
